@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Main Page Yo!</string>
+    <string name="goToAction">GO TO ACTION BAR NAVIGATION PAGE</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="hi_world">Hi World</string>
+    <string name="barack_obama">Barack Obama</string>
+    <string name="_2009_2017">2009-2017</string>
+    <string name="add_randomly">ADD RANDOMLY</string>
+</resources>
