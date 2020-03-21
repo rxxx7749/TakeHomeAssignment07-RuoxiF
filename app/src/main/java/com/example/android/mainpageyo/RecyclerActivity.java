@@ -38,7 +38,7 @@ private RecyclerView recyclerView;
         persons = new ArrayList<>();
         persons.add(new Person("Bill Clinton","1993-2001",R.drawable.bill_clinton));
         persons.add(new Person("George W. Bush","2001-2009",R.drawable.bush));
-        persons.add(new Person("Bill Clinton","2009-2017",R.drawable.obama));
+        persons.add(new Person("Barack Obama","2009-2017",R.drawable.obama));
     }
 
 
@@ -57,7 +57,7 @@ private RecyclerView recyclerView;
         }else if(num == 1){
                 return new Person("George W. Bush","2001-2009",R.drawable.bush);
         }else{
-            return new Person("Bill Clinton","2009-2017",R.drawable.obama);
+            return new Person("Barack Obama","2009-2017",R.drawable.obama);
         }
     }
 }
